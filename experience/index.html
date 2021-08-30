@@ -61,15 +61,8 @@
     </div>
     <div class="row align-items-center" style="margin-top: 30px">
         <div class="col-1"></div>
-        <div class="col-md-5 col-xs-12">
-            <div id="about-me"></div>
-            <div style="margin: 0 auto; text-align: center">
-                <img src="img/social/linkedin.png" alt="LinkedIn Logo"/>
-                <img src="img/social/github.png" alt="GitHub Logo"/>
-            </div>
-        </div>
-        <div class="col-5" style="text-align: center;">
-            <img class="profile" src="https://via.placeholder.com/300x450.png" alt="Profile Img"/>
+        <div class="col-md-10 col-xs-12">
+            <div id="experience"></div>
         </div>
         <div class="col-1"></div>
     </div>
@@ -80,10 +73,9 @@
         crossorigin="anonymous"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
-<script src="main.js"></script>
-
+<script src="../main.js"></script>
 <script>
-    setActivePage("home")
-    populateFromData("about-me", "intro.md")
+    setActivePage("experience")
+    populateFromData("experience", "experience.md")
 </script>
 </html>
