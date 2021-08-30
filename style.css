@@ -16,3 +16,7 @@
 .p-right {
     text-align: right;
 }
+
+.social-icon {
+    cursor: pointer;
+}
