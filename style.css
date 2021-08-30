@@ -1,0 +1,18 @@
+.navbar {
+    background: white !important;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.date-range {
+    font-style: italic;
+    float: right;
+}
+
+.md-button {
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.p-right {
+    text-align: right;
+}
