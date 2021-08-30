@@ -1,5 +1,4 @@
-**Some experience** <span style="float: right">Jun 2012 - Aug 2012</span>
-<br/>
+**Some experience** <span class="date-range">Jun 2012 - Aug 2012</span>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu magna at risus bibendum gravida. Etiam rhoncus ipsum sed
 convallis mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean sodales
@@ -10,8 +9,7 @@ Quisque nec tempus nunc, id blandit est.
 
 <hr/>
 
-**Some experience2** <span style="float: right">Jun 2012 - Aug 2012</span>
-<br/>
+**Some experience2** <span class="date-range">Jun 2012 - Aug 2012</span>
 
 This is just markdown so you can do what you want here:
 
