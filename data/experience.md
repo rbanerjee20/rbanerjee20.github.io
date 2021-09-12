@@ -1,6 +1,7 @@
 **Research Internship - Huawei R&D UK** <span class="date-range">Jun 2021 - Sep 2021</span>
 
-- Worked as part of the Processor Verification team on [Sail](https://github.com/rems-project/sail), a specification language that describes the instruction set architecture semantics of processors
+- Developed a number of tools in OCaml for [Sail](https://github.com/rems-project/sail), a specification language that describes the instruction set architecture semantics of processors
+- Opened [several GitHub issues](https://github.com/rems-project/sail/issues?q=is%3Aissue+author%3Arbanerjee20+is%3Aclosed+) which led to bug fixes within Sail compiler and additional user documentation to be written
 - Supervised by Dr Martin Berger
 
 <hr/>
