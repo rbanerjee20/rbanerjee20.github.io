@@ -1,20 +1,14 @@
-**Some activity** <span class="date-range">Jun 2012 - Aug 2012</span>
+**Imperial College Women & Non-Binary Individuals in Computing** <span class="date-range">Jan 2021 - Present</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu magna at risus bibendum gravida. Etiam rhoncus ipsum sed
-convallis mattis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean sodales
-molestie turpis at mattis. *test* quis **test bold** eget est_ lacinia. Morbi odio massa, pulvinar vel neque in,
-dapibus aliquet mauris. Pellentesque imperdiet, ligula at porta scelerisque, sem ligula vestibulum quam, ut convallis
-erat dui a ligula. In rutrum elementum porttitor. Vivamus varius facilisis ante, ac bibendum arcu consectetur vel.
-Quisque nec tempus nunc, id blandit est.
+- Secretary (2021-22)
+    - Responsible for organising meetings, setting agendas, keeping track of deliverables, and taking minutes in meetings
+- Web & Social Media Coordinator (2020-21)
+    - Responsible for keeping website and social media channels up to date, as well as designing posters and graphics for advertising events
+
+<a href="http://wic.doc.ic.ac.uk/" class="md-button" target="_blank">View Website</a>
 
 <hr/>
 
-**Some activity2** <span class="date-range">Jun 2012 - Aug 2012</span>
+**Joint Maths & Computing Academic Year Representative** <span class="date-range">Oct 2019 - Present</span>
 
-This is just markdown so you can do what you want here:
-
- - Test bullet 1 
- - test bullet 2
-
-1. Test list 1
-2. Test list 2
+- Responsible for liaising between the Departments of Computing and Mathematics, and communicating any concerns my year group may have at regular meetings with both departments  
