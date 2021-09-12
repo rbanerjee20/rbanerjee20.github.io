@@ -1,4 +1,4 @@
-**VAlgoLang** <span class="date-range">October 2020 - Jan 2021</span>
+**VAlgoLang** <span class="date-range">Oct 2020 - Jan 2021</span>
 
 - Created an open-source educational tool that generates animated videos of algorithms using Manim
 - Used Kotlin with ANTLR4 to develop novel interpreter, and gained familiarity with Manim library for backend
