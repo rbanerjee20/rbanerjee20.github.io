@@ -9,6 +9,6 @@
 
 <hr/>
 
-**Joint Maths & Computing Academic Year Representative** <span class="date-range">Oct 2019 - Present</span>
+**Joint Maths & Computing Academic Year Representative** <span class="date-range">Oct 2019 - Sep 2021</span>
 
 - Responsible for liaising between the Departments of Computing and Mathematics, and communicating any concerns my year group may have at regular meetings with both departments  
