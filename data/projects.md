@@ -3,7 +3,7 @@
 - Created an open-source educational tool that generates animated videos of algorithms using Manim
 - Used Kotlin with ANTLR4 to develop novel interpreter, and gained familiarity with Manim library for backend
 - Reduced number of lines of code needed to produce animations by 95% on average
-- Won the Corporate Partnership Programme Prize for software engineering excellence (link to [final report](https://drive.google.com/file/d/1NWvWhqzJ6UNJYXkTG21lSyw-SFgMFsgj/view))
+- Won the Corporate Partnership Programme Prize for software engineering excellence (link to [final report](/assets/valgolang_final_report.pdf))
 
 <a href="https://github.com/VAlgoLang/VAlgoLang" class="md-button" target="_blank">View Project</a>
 

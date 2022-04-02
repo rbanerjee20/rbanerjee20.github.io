@@ -20,6 +20,6 @@
 
 - Created an Android app using Java that monitors user security behaviours on mobile devices
 - Gained familiarity with Android components such as BroadcastReceivers, Listeners & Handlers
-- Wrote a 30-page [technical report](https://drive.google.com/file/d/1oMJTgFeQcdm8aeWrGUEeE0zMFf3jLsYL/view) detailing my work
+- Wrote a 30-page [technical report](/assets/urop_technical_report_2019.pdf) detailing my work
 - Supervised by Dr Soteris Demetriou
 <!-- - Co-authored a related paper, introducing the Smartphone Security Behavioral Scale (SSBS) -->
