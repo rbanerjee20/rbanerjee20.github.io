@@ -8,7 +8,7 @@
 
 **Undergraduate Research Opportunities Program (UROP) - Imperial College London** <span class="date-range">Jul 2020 - Sep 2020</span>
 
-- Worked on the [Devito Project](www.devitoprojec.org); Devito is a domain-specific language for symbolic computation in Python
+- Worked on the [Devito Project](http://devitoproject.org); Devito is a domain-specific language for symbolic computation in Python
 - Led a team to create the Devito Book, a set of Jupyter Notebook tutorials in Devito that teach the finite difference method for solving partial differential equations (PDEs)
 - Re-implemented existing NumPy PDE solvers using Devito and configured CI/CD for testing & deployment
 - Wrote a [Microsoft technical blog](https://techcommunity.microsoft.com/t5/educator-developer-blog/devito-book-summer-project-with-imperial-college-london/ba-p/1655272) about my experience
