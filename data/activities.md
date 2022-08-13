@@ -1,4 +1,4 @@
-**Imperial College Women & Non-Binary Individuals in Computing** <span class="date-range">Jan 2021 - Present</span>
+**Imperial College Women & Non-Binary Individuals in Computing** <span class="date-range">Jan 2021 - Jul 2022</span>
 
 - Secretary (2021-22)
     - Responsible for organising meetings, setting agendas, keeping track of deliverables, and taking minutes in meetings
