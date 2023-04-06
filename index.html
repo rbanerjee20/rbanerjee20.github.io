@@ -44,14 +44,17 @@
                                 <a id="cv-tab" class="nav-link" href="/assets/Rini_Banerjee_CV.pdf">cv</a>
                             </li>
                             <li class="nav-item">
+                                <a id="teaching-tab" class="nav-link" href="/teaching">teaching</a>
+                            </li>
+                            <!-- <li class="nav-item">
                                 <a id="experience-tab" class="nav-link" href="/experience">experience</a>
-                            </li>
-                            <li class="nav-item">
+                            </li> -->
+                            <!-- <li class="nav-item">
                                 <a id="projects-tab" class="nav-link" href="/projects">projects</a>
-                            </li>
-                            <li class="nav-item">
+                            </li> -->
+                            <!-- <li class="nav-item">
                                 <a id="activities-tab" class="nav-link" href="/activities" tabindex="-1">activities</a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>
@@ -63,9 +66,9 @@
         <div class="col-md-6 col-xs-12">
             <div id="about-me"></div>
             <div style="margin: 0 auto; text-align: center">
-                <img class="social-icon" onclick="window.open('https://www.linkedin.com/in/rini-banerjee/')" src="img/social/linkedin.png" alt="LinkedIn Logo"/>
                 <img class="social-icon" onclick="window.open('https://github.com/rbanerjee20')" src="img/social/github.png" alt="GitHub Logo"/>
                 <img class="social-icon" onclick="window.open('https://twitter.com/RiniBanerjee20')" src="img/social/twitter.png" alt="Twitter Logo"/>
+                <img class="social-icon" onclick="window.open('https://www.linkedin.com/in/rini-banerjee/')" src="img/social/linkedin.png" alt="LinkedIn Logo"/>
             </div>
         </div>
         <div class="col-4" style="text-align: center;">
@@ -85,5 +88,6 @@
 <script>
     setActivePage("home")
     populateFromData("about-me", "intro.md")
+    populateFromData("news", "news.md")
 </script>
 </html>

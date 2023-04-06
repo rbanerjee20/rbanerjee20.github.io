@@ -1,7 +1,14 @@
 ### About Me
 
-Hi! My name is Rini and I'm a first-year PhD student at the [Computer Laboratory](https://www.cst.cam.ac.uk/) at the University of Cambridge. My supervisors are [Prof Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) and [Dr Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/). My research interests include formal verification, programming languages, compilers and memory models.
+Hi! I am a first-year PhD student at the [Computer Laboratory](https://www.cst.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Prof Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) and [Dr Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/). 
 
-I recently graduated from Imperial College London with an MEng degree in Mathematics & Computer Science. My Master's thesis was about formal transactional memory models in the context of non-volatile memory, for which I was supervised by [Dr Azalea Raad](https://www.soundandcomplete.org/). During my time at Imperial, I was actively involved with the [Women & Non-Binary Individuals in Computing society](http://wic.doc.ic.ac.uk/), serving as Secretary in my final year.
+My research interests include formal verification, software testing, compilers and memory models. My work aims to improve the reliability of low-level systems which lie at the software/hardware boundary.
 
-I spend most of my free time getting involved with music. I enjoy both listening to and playing a variety of genres, including classical music (both in the Western and Indian realms) as well as more modern music too.
+Previously, I did my undergraduate and Master's degrees in Mathematics and Computer Science at [Imperial College London](https://www.imperial.ac.uk/). During my Master's, I worked under [Dr Azalea Raad](https://www.soundandcomplete.org/) on formal transactional memory models for non-volatile (persistent) memory.
+
+
+
+
+##### Contact
+
+rb2018 [at] cam.ac.uk
