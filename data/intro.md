@@ -6,3 +6,6 @@ My research interests include formal verification, software testing, compilers a
 
 Previously, I did my undergraduate and Master's degrees in Mathematics and Computer Science at [Imperial College London](https://www.imperial.ac.uk/). During my Master's, I worked under [Dr Azalea Raad](https://www.soundandcomplete.org/) on formal transactional memory models for non-volatile (persistent) memory.
 
+
+
+
