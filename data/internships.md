@@ -1,6 +1,6 @@
-### Research Internships
+### Internships
 
-I did a number of research internships between 2018 and 2022, both in industry and at my university, Imperial College London. See below to find out what I got up to during each internship.
+I did a number of research internships between 2019 and 2021, both in industry and at my alma mater, Imperial College London.
 
 ##### Huawei R&D UK <span class="date-range">Jun 2021 - Sep 2021</span>
 

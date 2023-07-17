@@ -14,3 +14,11 @@ United Kingdom
 ##### Email
 
 rb2018 [at] cam.ac.uk
+
+<hr/>
+
+##### Miscellaneous
+
+* Twitter: [@RiniBanerjee20](https://twitter.com/RiniBanerjee20)
+* GitHub: [@rbanerjee20](https://github.com/rbanerjee20)
+* [LinkedIn](https://www.linkedin.com/in/rini-banerjee/)
