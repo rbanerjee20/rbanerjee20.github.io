@@ -4,7 +4,7 @@ I work as part of the [REMS](https://www.cl.cam.ac.uk/~pes20/rems/) (Rigorous En
 
 I am broadly interested in programming languages research, with my current focus being testing and verification for systems software. Previously, I have worked on formal memory persistency models.
 
-#### research
+#### Talks
 
 1. **Executable Separation Logic Specifications**  
  Participant talk at the [Oregon Programming Languages Summer School (OPLSS) 2023](https://www.cs.uoregon.edu/research/summerschool/summer23/)  
