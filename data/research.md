@@ -7,12 +7,17 @@ I am broadly interested in programming languages research, with my current focus
 #### Talks
 
 1. **Executable Separation Logic Specifications**  
- Participant talk at the [Oregon Programming Languages Summer School (OPLSS) 2023](https://www.cs.uoregon.edu/research/summerschool/summer23/)  
+ Participant talk at the Oregon Programming Languages Summer School (OPLSS)  
  *3 July 2023*
   
 2. **Software Transactional Memory for Non-Volatile Memory**  
- Master's thesis presentation at [Imperial College London](https://www.imperial.ac.uk/computing/)  
+ Master's thesis presentation at Imperial College London    
  *27 June 2022*
+
+1. **Hypothesis: Property-Based Testing for Python**  
+   Group presentation for [Software Reliability](https://srg.doc.ic.ac.uk/70024/) course at Imperial College London  
+   *March 2022*
+   
 
 #### Teaching
 
