@@ -2,7 +2,7 @@
 
 Hi! I am a third-year PhD student at the [Computer Laboratory](https://www.cst.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), where I am supervised by [Prof Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) and [Prof Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/). 
 
-My research interests include formal verification, software testing, compilers and weak memory models. My work aims to improve the reliability of low-level systems which lie at the software/hardware boundary.
+I work as part of the [REMS](https://www.cl.cam.ac.uk/~pes20/rems/) (Rigorous Engineering of Mainstream Systems) group at Cambridge. I am broadly interested in programming languages research, with my current focus being testing and verification for systems software. My work aims to improve the reliability of low-level systems which lie at the software/hardware boundary.
 
 Previously, I did an integrated Master's degree in Mathematics and Computer Science at [Imperial College London](https://www.imperial.ac.uk/). For my Master's dissertation, I worked with [Dr Azalea Raad](https://www.soundandcomplete.org/) on formal transactional memory models for non-volatile (persistent) memory.
 
