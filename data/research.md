@@ -28,6 +28,7 @@
 
 #### Teaching
 
+* (upcoming) [Hoare Logic & Model Checking](https://www.cl.cam.ac.uk/teaching/2526/HLog+ModC/). Easter 2026. (*Cambridge*)
 * [Semantics of Programming Languages](https://www.cl.cam.ac.uk/teaching/2324/Semantics/). Michaelmas 2023; Michaelmas 2024. (*Cambridge*)
 * [40018 Discrete Mathematics, Logic & Reasoning](http://www.imperial.ac.uk/computing/current-students/courses/40018). Autumn 2021; Spring 2022. (*Imperial*)
 * [40008 Graphs and Algorithms](http://www.imperial.ac.uk/computing/current-students/courses/40008). Spring 2021; Spring 2022. (*Imperial*)
