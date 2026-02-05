@@ -1,29 +1,39 @@
 #### Publications
 
-1. **Fulminate: Testing CN Separation-Logic Specifications in C**. Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. *In POPL 2025.* ([paper](../assets/cn-testing-paper-popl-25.pdf)). 
+1. **Fulminate: Testing CN Separation-Logic Specifications in C**.  
+Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. *POPL 2025.* [[pdf](../assets/cn-testing-paper-popl-25.pdf)] 
 
+#### Theses
 
-#### Talks
+1. **Software Transactional Memory for Non-Volatile Memory.**  
+Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Prize.* [[pdf](../assets/masters_thesis.pdf)]
+
+#### Selected talks
+
+1. **Gradually Retrofitting Assurance into Systems Software: A Separation-Logic Approach**  
+   Presented at the Theory and Practice of Static Analysis ([TPSA](https://popl26.sigplan.org/home/tpsa-2026)) workshop at [POPL 2026](https://conf.researchr.org/home/POPL-2025), with [Hiroyuki Katsura](https://hkatsura.net/)  
+   Rennes, France  
+   *12 January 2026*
 
 1. **Executable Separation Logic Specifications**  
-   Presented as part of the Sandwich Seminar series  
+   Presented as part of the Birmingham theoretical computer science seminar series  
+   School of Computer Science, University of Birmingham  
+   *14 February 2025*
+
+1. **Executable Separation Logic Specifications**  
+   Presented at [POPL 2025](https://conf.researchr.org/home/POPL-2025)   
+   Denver, Colorado, USA  
+   *14 February 2025*
+
+1. **Executable Separation Logic Specifications**  
+   Presented as part of the SANDWICH Seminar series  
    Department of Computer Science & Technology, University of Cambridge  
    *4 November 2024*
 
 2. **Adventures in Specification-Based Testing**  
- Presented at the [Big Specification: Specification, Proof, and Testing at Scale](https://www.newton.ac.uk/event/bspw01/) workshop, alongside Benjamin C. Pierce and John Hughes  
+ Presented at the [Big Specification: Specification, Proof, and Testing at Scale](https://www.newton.ac.uk/event/bspw01/) workshop, with [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/) and [John Hughes](https://www.cse.chalmers.se/~rjmh/)  
  Isaac Newton Institute, University of Cambridge  
  *8 October 2024*
-
-1. **Executable Separation Logic Specifications**  
- Presented at the [Oregon Programming Languages Summer School (OPLSS)](https://www.cs.uoregon.edu/research/summerschool/summer23/index.php)    
- University of Oregon  
- *3 July 2023*
-  
-1. **Software Transactional Memory for Non-Volatile Memory**  
- Master's thesis presentation  
- Imperial College London  
- *27 June 2022*
    
 
 #### Teaching
