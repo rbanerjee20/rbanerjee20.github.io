@@ -15,6 +15,11 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
    Rennes, France  
    *12 January 2026*
 
+1. **Separation Logic Testing and Verification for Systems Software**  
+   Presented as part of the Code Reasoning Spotlight series, with [Christopher Pulte](https://www.cs.ox.ac.uk/people/christopher.pulte/home.html)  
+   Amazon (online)  
+   *7 May 2025*
+
 1. **Executable Separation Logic Specifications**  
    Presented as part of the Birmingham theoretical computer science seminar series  
    School of Computer Science, University of Birmingham  
@@ -24,11 +29,6 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
    Presented at [POPL 2025](https://conf.researchr.org/home/POPL-2025)   
    Denver, Colorado, USA  
    *14 February 2025*
-
-1. **Executable Separation Logic Specifications**  
-   Presented as part of the SANDWICH Seminar series  
-   Department of Computer Science & Technology, University of Cambridge  
-   *4 November 2024*
 
 2. **Adventures in Specification-Based Testing**  
  Presented at the [Big Specification: Specification, Proof, and Testing at Scale](https://www.newton.ac.uk/event/bspw01/) workshop, with [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/) and [John Hughes](https://www.cse.chalmers.se/~rjmh/)  
