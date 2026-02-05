@@ -1,7 +1,7 @@
 #### Publications
 
 1. **Fulminate: Testing CN Separation-Logic Specifications in C**.  
-Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. *POPL 2025.* [[pdf](../assets/cn-testing-paper-popl-25.pdf)] 
+Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. POPL 2025. [[pdf](../assets/cn-testing-paper-popl-25.pdf)] 
 
 #### Theses
 
