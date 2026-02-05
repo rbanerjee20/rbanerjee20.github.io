@@ -20,3 +20,11 @@
 .social-icon {
     cursor: pointer;
 }
+
+a, u {
+  text-decoration: none;
+}
+
+/* a:hover {
+  color: rgb(51, 74, 221);
+} */
