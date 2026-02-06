@@ -28,7 +28,7 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
 1. **Executable Separation Logic Specifications**  
    Presented at [POPL 2025](https://popl25.sigplan.org/)   
    Denver, Colorado, USA  
-   *14 February 2025*
+   *22 January 2025*
 
 2. **Adventures in Specification-Based Testing**  
  Presented at the [Big Specification: Specification, Proof, and Testing at Scale](https://www.newton.ac.uk/event/bspw01/) workshop, with [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/) and [John Hughes](https://www.cse.chalmers.se/~rjmh/)  
