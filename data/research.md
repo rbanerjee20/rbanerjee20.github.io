@@ -20,12 +20,12 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
    Amazon (online)  
    *7 May 2025*
 
-1. **Executable Separation Logic Specifications**  
+1. **Fulminate: Testing CN Separation-Logic Specifications in C**  
    Presented as part of the Birmingham theoretical computer science seminar series  
    School of Computer Science, University of Birmingham  
    *14 February 2025*
 
-1. **Executable Separation Logic Specifications**  
+1. **Fulminate: Testing CN Separation-Logic Specifications in C**  
    Presented at [POPL 2025](https://popl25.sigplan.org/)   
    Denver, Colorado, USA  
    *22 January 2025*
