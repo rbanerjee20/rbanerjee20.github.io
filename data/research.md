@@ -1,11 +1,11 @@
 #### Publications
 
 1. **Code-Specify-Test-Debug-Prove: Flexibly Integrating Separation  Logic Specification into Conventional Workflows**.  
-Zain K Aamer\*, Rini Banerjee\*, Hiroyuki Katsura\*, David Kaloper-Meršinjak\*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C Pierce, Christopher Pulte, Peter Sewell. To appear in PLDI 2026.   
+Zain K Aamer\*, <ins>Rini Banerjee</ins>\*, Hiroyuki Katsura\*, David Kaloper-Meršinjak\*, Dimitrios J. Economou, Kayvan Memarian, Dhruv Makwana, Neel Krishnaswami, Benjamin C Pierce, Christopher Pulte, Peter Sewell. To appear in PLDI 2026.   
 *\*These authors contributed equally.*
 
 2. **Fulminate: Testing CN Separation-Logic Specifications in C**.  
-Rini Banerjee, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. POPL 2025. [[pdf](../assets/cn-testing-paper-popl-25.pdf)] 
+<ins>Rini Banerjee</ins>, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. POPL 2025. [[pdf](../assets/cn-testing-paper-popl-25.pdf)] 
 
 #### Theses
 
