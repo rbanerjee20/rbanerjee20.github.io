@@ -17,28 +17,32 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
 1. **Gradually Retrofitting Assurance into Systems Software: A Separation-Logic Approach**  
    Presented at the Theory and Practice of Static Analysis ([TPSA](https://popl26.sigplan.org/home/tpsa-2026)) workshop at [POPL 2026](https://popl26.sigplan.org/), with [Hiroyuki Katsura](https://hkatsura.net/)  
    Rennes, France  
-   *12 January 2026*
+   *12 January 2026*  
+   [[slides](../assets/talks/TPSA%20talk_01-2026.pdf)]
 
 1. **Separation Logic Testing and Verification for Systems Software**  
    Presented as part of the Code Reasoning Spotlight series, with [Christopher Pulte](https://www.cs.ox.ac.uk/people/christopher.pulte/home.html)  
    Amazon (online)  
-   *7 May 2025*
+   *7 May 2025*  
+   [[slides](../assets/talks/amazon-talk.pdf)]
 
 1. **Fulminate: Testing CN Separation-Logic Specifications in C**  
    Presented as part of the Birmingham theoretical computer science seminar series  
    School of Computer Science, University of Birmingham  
-   *14 February 2025*
+   *14 February 2025*  
+   [[slides](../assets/talks/birmingham-theory-seminar-2025-talk.pdf)]
 
 1. **Fulminate: Testing CN Separation-Logic Specifications in C**  
    Presented at [POPL 2025](https://popl25.sigplan.org/)   
    Denver, Colorado, USA  
-   *22 January 2025*
+   *22 January 2025*  
+   [[slides](../assets/talks/popl-2025-talk.pdf)]
 
 2. **Adventures in Specification-Based Testing**  
  Presented at the [Big Specification: Specification, Proof, and Testing at Scale](https://www.newton.ac.uk/event/bspw01/) workshop, with [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/) and [John Hughes](https://www.cse.chalmers.se/~rjmh/)  
  Isaac Newton Institute, University of Cambridge  
- *8 October 2024*
-   
+ *8 October 2024*  
+ [[slides](../assets/talks/2024%20-%20VERSE%20testing%20talk%20at%20INI.pdf)]  
 
 #### Teaching
 
