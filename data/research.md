@@ -14,6 +14,12 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
 
 #### Selected talks
 
+1. **Gradual Assurace for Systems Software: A Separation-Logic Approach**  
+   Presented at the LFCS seminar  
+   School of Informatics, University of Edinburgh  
+   *14 April 2026*  
+   [[slides](../assets/talks/lfcs-seminar-04-2026.pdf)]
+
 1. **Gradually Retrofitting Assurance into Systems Software: A Separation-Logic Approach**  
    Presented at the Theory and Practice of Static Analysis ([TPSA](https://popl26.sigplan.org/home/tpsa-2026)) workshop at [POPL 2026](https://popl26.sigplan.org/), with [Hiroyuki Katsura](https://hkatsura.net/)  
    Rennes, France  
@@ -26,11 +32,6 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
    *7 May 2025*  
    [[slides](../assets/talks/amazon-talk.pdf)]
 
-1. **Fulminate: Testing CN Separation-Logic Specifications in C**  
-   Presented as part of the Birmingham theoretical computer science seminar series  
-   School of Computer Science, University of Birmingham  
-   *14 February 2025*  
-   [[slides](../assets/talks/birmingham-theory-seminar-2025-talk.pdf)]
 
 1. **Fulminate: Testing CN Separation-Logic Specifications in C**  
    Presented at [POPL 2025](https://popl25.sigplan.org/)   
