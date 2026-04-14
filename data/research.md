@@ -14,7 +14,7 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
 
 #### Selected talks
 
-1. **Gradual Assurace for Systems Software: A Separation-Logic Approach**  
+1. **Gradual Assurance for Systems Software: A Separation-Logic Approach**  
    Presented at the LFCS seminar  
    School of Informatics, University of Edinburgh  
    *14 April 2026*  
