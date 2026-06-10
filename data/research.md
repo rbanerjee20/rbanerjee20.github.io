@@ -15,10 +15,10 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
 #### Selected talks
 
 1. **Gradual Assurance for Systems Software: A Separation-Logic Approach**  
-   Presented at the LFCS seminar  
-   School of Informatics, University of Edinburgh  
-   *14 April 2026*  
-   [[slides](../assets/talks/lfcs-seminar-04-2026.pdf)]
+   Keynote at the [Iris Workshop 2026](https://iris-project.org/workshop-2026/)  
+   ISTA, Vienna, Austria  
+   *8 June 2026*  
+   [[slides](../assets/talks/iris-workshop-keynote.pdf)]
 
 1. **Gradually Retrofitting Assurance into Systems Software: A Separation-Logic Approach**  
    Presented at the Theory and Practice of Static Analysis ([TPSA](https://popl26.sigplan.org/home/tpsa-2026)) workshop at [POPL 2026](https://popl26.sigplan.org/), with [Hiroyuki Katsura](https://hkatsura.net/)  
