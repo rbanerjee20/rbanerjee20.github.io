@@ -44,3 +44,9 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
  Isaac Newton Institute, University of Cambridge  
  *8 October 2024*  
  [[slides](../assets/talks/2024%20-%20VERSE%20testing%20talk%20at%20INI.pdf)]  
+
+#### Teaching
+
+At Cambridge, I lectured for the first half of the Part II [Hoare Logic & Model Checking](https://www.cl.cam.ac.uk/teaching/2526/HLog+ModC/) course in Easter term 2026. I also supervised for the Part Ib [Semantics of Programming Languages](https://www.cl.cam.ac.uk/teaching/2324/Semantics/) course in Michaelmas 2023 and 2024.
+
+At Imperial, I was an undergraduate teaching assistant (UTA) in the 2020-21 and 2021-22 academic years, supervising small groups of first-year students for the [Discrete Mathematics, Logic & Reasoning](http://www.imperial.ac.uk/computing/current-students/courses/40018) and [Graphs and Algorithms](http://www.imperial.ac.uk/computing/current-students/courses/40008) courses.
