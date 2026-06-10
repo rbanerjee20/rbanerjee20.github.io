@@ -45,7 +45,10 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
  *8 October 2024*  
  [[slides](../assets/talks/2024%20-%20VERSE%20testing%20talk%20at%20INI.pdf)]  
 
+
 #### Teaching
+
+<!-- TODO: Add Saljuk supervision once thesis done. Add supervision to section title -->
 
 At Cambridge, I lectured for the first half of the Part II [Hoare Logic & Model Checking](https://www.cl.cam.ac.uk/teaching/2526/HLog+ModC/) course in Easter term 2026. I also supervised for the Part Ib [Semantics of Programming Languages](https://www.cl.cam.ac.uk/teaching/2324/Semantics/) course in Michaelmas 2023 and 2024.
 
