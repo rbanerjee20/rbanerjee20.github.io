@@ -15,7 +15,7 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
 #### Selected talks
 
 1. **Gradual Assurance for Systems Software: A Separation-Logic Approach**  
-   Keynote at the [Iris Workshop 2026](https://iris-project.org/workshop-2026/)  
+   Invited talk at the [Iris Workshop 2026](https://iris-project.org/workshop-2026/)  
    ISTA, Vienna, Austria  
    *8 June 2026*  
    [[slides](../assets/talks/iris-workshop-keynote.pdf)]
@@ -44,11 +44,3 @@ Rini Banerjee. MEng thesis, Imperial College London. *Awarded the ARM Project Pr
  Isaac Newton Institute, University of Cambridge  
  *8 October 2024*  
  [[slides](../assets/talks/2024%20-%20VERSE%20testing%20talk%20at%20INI.pdf)]  
-
-#### Teaching
-
-* [Hoare Logic & Model Checking](https://www.cl.cam.ac.uk/teaching/2526/HLog+ModC/). Easter 2026. (*Cambridge*)
-* [Semantics of Programming Languages](https://www.cl.cam.ac.uk/teaching/2324/Semantics/). Michaelmas 2023; Michaelmas 2024. (*Cambridge*)
-* [40018 Discrete Mathematics, Logic & Reasoning](http://www.imperial.ac.uk/computing/current-students/courses/40018). Autumn 2021; Spring 2022. (*Imperial*)
-* [40008 Graphs and Algorithms](http://www.imperial.ac.uk/computing/current-students/courses/40008). Spring 2021; Spring 2022. (*Imperial*)
-* [40012 Logic and Reasoning](http://www.imperial.ac.uk/computing/current-students/courses/40012). Autumn 2020; Spring 2021. (*Imperial*)
