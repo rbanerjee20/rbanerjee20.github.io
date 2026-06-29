@@ -7,6 +7,9 @@ Zain K Aamer\*, <ins>Rini Banerjee</ins>\*, Hiroyuki Katsura\*, David Kaloper-Me
 2. **Fulminate: Testing CN Separation-Logic Specifications in C**.  
 <ins>Rini Banerjee</ins>, Kayvan Memarian, Dhruv Makwana, Christopher Pulte, Neel Krishnaswami, and Peter Sewell. POPL 2025. [[pdf](../assets/papers/cn-testing-paper-popl-25.pdf)] 
 
+3. **Smartphone Security Behavioral Scale: A New Psychometric Measurement for Smartphone Security**.  
+Hsiao-Ying Huang, Soteris Demetriou, <ins>Rini Banerjee</ins>, Güliz Seray Tuncay, Carl A Gunter, Masooda Bashir. Preprint, 2020. [[pdf](../assets/papers/ssbs-paper.pdf)]
+
 #### Theses
 
 1. **Software Transactional Memory for Non-Volatile Memory.**  
