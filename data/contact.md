@@ -19,6 +19,6 @@ rb2018 [at] cam.ac.uk
 
 ##### Miscellaneous
 
-* Twitter: [@RiniBanerjee20](https://twitter.com/RiniBanerjee20)
 * GitHub: [@rbanerjee20](https://github.com/rbanerjee20)
+* [Google Scholar](https://scholar.google.com/citations?user=HnB2cokAAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/rini-banerjee/)
