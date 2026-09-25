@@ -1,6 +1,6 @@
 ### About me
 
-I am a PhD student at the [Computer Laboratory](https://www.cst.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), working with [Prof Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) and [Prof Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/) as part of the [REMS](https://www.cl.cam.ac.uk/~pes20/people-new/index.html) group . I hold a [Google DeepMind](https://deepmind.google/education/) scholarship.
+I am a PhD student at the [Computer Laboratory](https://www.cst.cam.ac.uk/) at the [University of Cambridge](https://www.cam.ac.uk/), working with [Prof Peter Sewell](https://www.cl.cam.ac.uk/~pes20/) and [Prof Neel Krishnaswami](https://www.cl.cam.ac.uk/~nk480/) as part of the [REMS](https://www.cl.cam.ac.uk/~pes20/people-new/index.html) group. I hold a [Google DeepMind](https://deepmind.google/education/) scholarship.
 
 My work aims to make real-world C software more reliable, via novel tooling that dynamically checks separation-logic specifications at runtime in C. This specification-testing tool, *Fulminate*, is part of a wider [CN](https://github.com/rems-project/cn) toolchain developed alongside colleagues at Cambridge and Penn, which can be used to test, property-based test and prove correctness of such C code. 
 
